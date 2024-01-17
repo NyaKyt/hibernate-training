@@ -1,4 +1,4 @@
-package com.hibernate.training;
+package com.hibernate.training.Controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
